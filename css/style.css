@@ -1,6 +1,23 @@
-.head
+.text
+{
+    font-size: large;
+}
+.ul
+{
+   font-style: oblique;
+    color: darkblue;
+}
+table
+{
+    border: 1px solid grey
+
+}
+th, td
+{
+    border: 1px solid grey;
+}
+img
 {
     width: 100%;
-    height: 100px;
-    background: #eb0610;
+    height: 145px;
 }
